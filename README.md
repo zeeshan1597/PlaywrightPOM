@@ -10,7 +10,7 @@ To install Playwright, you can follow these steps:
 
 1. Clone the project to your local directory using git clone:
 
-git clone https://github.com/Burqup/burq-qa.git
+git clone https://github.com/zeeshan1597/PlaywrightPOM.git
 
 2. Navigate to the root directory of the project "Playwright":
 
